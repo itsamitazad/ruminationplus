@@ -1,3 +1,2 @@
 # RUMINATIONPLUS
-A youtube  chanel
-that stream live game and thoughts for learn.
+A youtube  chanel.
